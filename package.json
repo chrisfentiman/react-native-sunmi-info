@@ -1,6 +1,6 @@
 {
   "name": "react-native-sunmi-info",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sunmi info for react-native",
   "author": "Janus J K Lu <januslo6211@gmail.com>",
   "contributors": [],
@@ -23,6 +23,6 @@
   "license": "",
   "private": false,
   "peerDependencies": {
-    "react-native": "^0.42.0"
+    "react-native": ">=0.42.0"
   }
 }
